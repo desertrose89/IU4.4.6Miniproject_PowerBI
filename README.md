@@ -12,10 +12,16 @@ Using Data Analysis Expressions (DAX) to create calculated columns and measures 
 **Assignment** : Create a visualization dashboard to track important KPIs of the plant's operational process
 1. Calculate the below listed KPIs(measures) using DAX [45 – 60 mins] [Marks: 30]
 2. Create charts to track the overall trend of the above calculated metrics over the given time period. Also, create a KPI card highlighting the overall values for each KPIs across the given time period in the data [90 – 120 mins] [Marks: 50]
-3. Create list of filters at top of the dashboard to filter for the above designed metrics tracker [20 - 40 mins] [Marks: 20]
-I. Line ID
-II. Team ID
+3. Create list of filters at top of the dashboard to filter for the above designed metrics tracker [20 - 40 mins] [Marks: 20] <br>
+I. Line ID<br>
+II. Team ID<br>
 III. Date
 4. Bonus Question: Is there a correlation between (i) total production and scrap pieces
 produced, (ii) total production and rework pieces? What is the magnitude of correlation?
 [25 - 40 mins]
+
+**Expectations** :
+1. Use Power Query and DAX
+2. Create new columns/ calculated field in Power BI using pre-existing columns and formulae
+3. Create charts to analyze data i.e., scatter plot, line chart, KPIs, etc.
+4. Adding images, filters, scroll bars in the dashboard to make dynamic visualizations
